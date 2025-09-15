@@ -4,7 +4,6 @@
 🌱 Passionate about Machine Learning, Deep Learning, and Open Source  
 💡 Experienced in YOLO-based Object Detection, Realtime Web Applications, and Automation
 
-📫 Reach me at: [LinkedIn](https://linkedin.com/in/shanmugagurug)
 
 ## 🛠️ Key Projects
 - [Thermal Wildlife Tracker](https://github.com/Gururazer/Thermal-Wildlife-Tracker)
