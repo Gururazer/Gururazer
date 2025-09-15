@@ -1,7 +1,7 @@
 # Hi, I'm Shanmugaguru 👋
 
 🚀 AI Developer | Python, Django, PyTorch  
-🌱 Passionate about Machine Learning, Deep Learning, and Open Source  
+🌱 Passionate about Machine Learning, Deep Learning, LLM, Computer Vision and Open Source  
 💡 Experienced in YOLO-based Object Detection, Realtime Web Applications, and Automation
 
 
